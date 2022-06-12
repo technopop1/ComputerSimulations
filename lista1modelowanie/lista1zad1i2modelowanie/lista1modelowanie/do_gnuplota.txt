@@ -1,0 +1,6 @@
+cd 'C:\Users\konto\OneDrive\Desktop\lista1modelowanie\lista1modelowanie\
+
+plot 'wynikiGestosci_01.txt' using 0:1 with lines title "p0 = 0.1", 'wynikiGestosci_03.txt' using 0:1 with lines title "p0 = 0.3", 'wynikiGestosci_06.txt' using 0:1 with lines title "p0 = 0.6", 'wynikiGestosci_075.txt' using 0:1 with lines title "p0 = 0.75", 'wynikiGestosci_08.txt' using 0:1 with lines title "p0 = 0.8"
+
+
+plot 'wynikiGestosci_005.txt' using 0:1 with lines title "p0 = 0.05", 'wynikiGestosci_095.txt' using 0:1 with lines title "p0 = 0.95"
